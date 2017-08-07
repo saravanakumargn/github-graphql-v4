@@ -20,6 +20,7 @@ query {
   }
 }
 ```
+Server responded JSON data:
 
 ```
 {
